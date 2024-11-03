@@ -1,0 +1,7 @@
+{
+  "Courses":[
+    {"id":1, "name":  "JAVA", "duration": 2, "status": true},
+    {"id":2, "name":  "C#", "duration": 1, "status": false},
+    {"id":3, "name":  "SQL", "duration": 3, "status": true},
+  ]
+}
